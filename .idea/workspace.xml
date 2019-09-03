@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7c9c37-3367-4712-9222-c2d96eb2f587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/templates/users/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/templates/users/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/templates/users/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/templates/users/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/templates/blog/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlogProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogProject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlogProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567429613714</updated>
-      <workItem from="1567429617408" duration="18159000" />
+      <workItem from="1567429617408" duration="21229000" />
     </task>
     <servers />
   </component>
