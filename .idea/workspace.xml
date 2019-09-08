@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7c9c37-3367-4712-9222-c2d96eb2f587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Users/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/googleme.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/googleme_rvYFSiS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/graduation_ceremony_2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlogProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlogProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Users/templates/users/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/apps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,6 +43,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/media/profile_pics" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SomeWork\Djangos\BlogProject\media" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SomeWork\Djangos\BlogProject\media\profile_pics" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,7 +101,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567429613714</updated>
-      <workItem from="1567429617408" duration="25357000" />
+      <workItem from="1567429617408" duration="28646000" />
+      <workItem from="1567944840445" duration="113000" />
+      <workItem from="1567944974118" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="Login and Logout systems">
       <created>1567519698476</created>
@@ -117,7 +123,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
