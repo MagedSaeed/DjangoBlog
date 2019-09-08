@@ -4,5 +4,5 @@ from django.apps import AppConfig
 class UsersConfig(AppConfig):
     name = 'Users'
 
-    def read(self):
+    def ready(self):
         import Users.signals
