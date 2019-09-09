@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4c7c9c37-3367-4712-9222-c2d96eb2f587" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/templates/blog/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Users/templates/users/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Users/templates/users/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
@@ -105,7 +105,7 @@
       <updated>1567429613714</updated>
       <workItem from="1567429617408" duration="28646000" />
       <workItem from="1567944840445" duration="113000" />
-      <workItem from="1567944974118" duration="5487000" />
+      <workItem from="1567944974118" duration="8450000" />
     </task>
     <task id="LOCAL-00001" summary="Login and Logout systems">
       <created>1567519698476</created>
