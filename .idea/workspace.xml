@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7c9c37-3367-4712-9222-c2d96eb2f587" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Users/migrations/0002_auto_20190911_2013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/migrations/0003_auto_20190911_2015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/migrations/0004_auto_20190911_2025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/migrations/0005_auto_20190911_2030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/templates/blog/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/templates/blog/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Users/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/default.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/default1.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,15 +49,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/media/profile_pics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../academic_services" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\SomeWork\Djangos\BlogProject\media" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\SomeWork\Djangos\BlogProject\media\profile_pics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SomeWork\Djangos\BlogProject\media" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -103,7 +110,9 @@
       <workItem from="1567429617408" duration="28646000" />
       <workItem from="1567944840445" duration="113000" />
       <workItem from="1567944974118" duration="8450000" />
-      <workItem from="1568014956148" duration="8137000" />
+      <workItem from="1568014956148" duration="8225000" />
+      <workItem from="1568117289199" duration="5116000" />
+      <workItem from="1568222426271" duration="1923000" />
     </task>
     <task id="LOCAL-00001" summary="Login and Logout systems">
       <created>1567519698476</created>
